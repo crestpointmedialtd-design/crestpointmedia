@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://crestpointmedia.com/sitemap.xml
+Sitemap: https://crestpointmedia.co/sitemap.xml
 
 # Block irrelevant crawling
 Disallow: /assets/
